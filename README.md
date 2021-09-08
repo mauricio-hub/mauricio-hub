@@ -5,6 +5,6 @@ I like to create code to give solutions in a creative way, my main language is J
 - 🌱 I’m currently learning  Frontend 
 - 👯 I’m looking to make money doing code 
 - 💬 Ask me whatever you want
-- 📫 How to reach me: https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/
+- 📫 How to reach me: [LinkeIn](https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/)
 
 
