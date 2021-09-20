@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Mauricio , I like programming, and that is why I am here,
-I like to create code to give solutions in a creative way, my main language is JavaScript and I love it.
+Hi, I'm a frontend developer and that's why I'm here to learn and create code giving solutions in a creative way.
 
 - 🌱 I’m currently learning  Frontend 
 - 👯 I’m looking to make money doing code 
