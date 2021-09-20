@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mauricio González, I like programming, and that is why I am here,
+I am Mauricio , I like programming, and that is why I am here,
 I like to create code to give solutions in a creative way, my main language is JavaScript and I love it.
 
 - 🌱 I’m currently learning  Frontend 
