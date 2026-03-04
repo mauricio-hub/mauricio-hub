@@ -1,9 +1,14 @@
 ### Hi there 👋
-Hi, I'm a frontend developer and that's why I'm here to learn and create code giving solutions in a creative way.
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to make money doing code 
-- 💬 Ask me whatever you want
-- 📫 How to reach me: [LinkeIn](https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/)
+Hi, I'm Mauricio — a Full Stack Developer focused on building scalable web applications and clean user interfaces.
+
+I work mainly with **React, TypeScript, Python, and Django**, creating modern applications that combine strong backend architecture with intuitive frontend experiences.
+
+- 🚀 Building full-stack applications with React and Python
+- ⚡ Interested in scalable systems, APIs, and real-time applications
+- 🧠 Always improving my skills in software architecture and product development
+- 💬 Ask me about React, TypeScript, Django, APIs, and web development
+- 🌐 Portfolio: https://bymauriciog.com
+- 📫 LinkedIn: https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/
 
 
