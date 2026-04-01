@@ -1,14 +1,21 @@
-### Hi there 👋
+Hey 👋
 
-Hi, I'm Mauricio — a Full Stack Developer focused on building scalable web applications and clean user interfaces.
+I'm Mauricio — Full Stack Developer focused on building scalable products and smart automations.
 
-I work mainly with **React, TypeScript, Python, and Django**, creating modern applications that combine strong backend architecture with intuitive frontend experiences.
+I work with React, TypeScript, Python, Django, and n8n, combining solid backend systems with modern frontends and workflow automation.
 
-- 🚀 Building full-stack applications with React and Python
-- ⚡ Interested in scalable systems, APIs, and real-time applications
-- 🧠 Always improving my skills in software architecture and product development
-- 💬 Ask me about React, TypeScript, Django, APIs, and web development
-- 🌐 Portfolio: https://bymauriciog.com
-- 📫 LinkedIn: https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/
+What I do
+🚀 Build full-stack applications (frontend + backend)
+⚡ Design APIs and automate workflows with n8n
+🔗 Integrate services, databases, and third-party tools
+🧩 Turn complex processes into simple, automated systems
+Currently
+🧠 Improving system design & backend architecture
+🤖 Building automations and integrations with n8n
+Tech Stack
 
+React · TypeScript · Python · Django · n8n · REST APIs
 
+Let's connect
+🌐 Portfolio → https://bymauriciog.com
+💼 LinkedIn → https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/
