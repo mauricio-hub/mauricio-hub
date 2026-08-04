@@ -12,37 +12,13 @@
 
 </div>
 
-```javascript
-// mauricio.config.js
+## About Me
 
-export default {
-  name: "Mauricio González",
-  role: "Full Stack Developer",
+I'm a Full Stack Developer who enjoys solving real-world problems through software.
 
-  stack: {
-    languages: ["TypeScript", "JavaScript", "Python"],
-    backend: ["Node.js", "NestJS"],
-    frontend: ["React", "Next.js"],
-    databases: ["PostgreSQL", "MongoDB"],
-    devops: ["Docker", "Linux"],
-  },
+Over the past few years I've worked primarily with TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB, building REST APIs and full-stack applications.
 
-  interests: [
-    "Backend Development",
-    "Frontend Development",
-    "Software Architecture",
-    "REST APIs",
-    "Automation",
-    "Continuous Learning",
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Cloud Technologies",
-    "Advanced English (C1)",
-  ],
-};
-```
+Outside of coding, I enjoy learning about software architecture, distributed systems, cloud technologies, and continuously improving my English.
 
 ## 📊 GitHub Stats
 
