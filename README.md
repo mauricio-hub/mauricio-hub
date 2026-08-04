@@ -1,94 +1,165 @@
-<h1 align="center">Hey 👋, I'm Mauricio</h1>
+````md id="8n0rmt"
+<div align="center">
+
+# 👋 Hey, I'm Mauricio
+
+## Full Stack Developer (Mostly Harmless)
+
+```
+Loading developer...
+
+██████████████████████████ 100%
+
+Developer loaded successfully.
+
+Warnings:
+- May overengineer simple projects.
+- Talks to Docker.
+- Uses console.log() as a debugger.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Professional+Bug+Collector;Coffee+→+Code+Converter;Works+on+My+Machine+Certified;Powered+by+TypeScript+and+Bad+Decisions" />
+
+</div>
+
+---
+
+# 🎮 Character Profile
+
+```yaml
+Name: Mauricio
+
+Class: Full Stack Developer
+
+Level: Grinding...
+
+HP: ██████████
+
+Mana: Coffee ☕
+
+Special Ability:
+  "Fix one bug.
+   Accidentally create two."
+```
+
+---
+
+# 🎒 Inventory
+
+```text
+✓ JavaScript
+✓ TypeScript
+✓ Node.js
+✓ NestJS
+✓ React
+✓ PostgreSQL
+✓ MongoDB
+✓ Docker
+✓ Linux
+✓ Git
+✓ n8n
+
+Legendary Item:
+
+Rubber Duck
++20 Debugging
+```
 
 <p align="center">
-  Full Stack Developer focused on building scalable systems, APIs, and automations.
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mongodb,docker,git,github,linux,python"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 📜 Side Quests
 
-- 💻 Fullstack developer (React + Django stack)
-- ⚙️ Focused on backend architecture & automation
-- 🔄 Building workflows with **n8n**
-- 📈 Always improving system design and scalability
-- 🎯 Goal: Become a senior developer & build my own products
+☑ Build cool stuff
 
----
+☑ Break cool stuff
 
-## 🧠 What I Do
+☑ Fix cool stuff
 
-- 🚀 Build full-stack applications (frontend + backend)
-- ⚡ Design REST APIs and scalable systems
-- 🔄 Automate workflows and processes using n8n
-- 🔗 Integrate third-party services and databases
-- 🧩 Turn complex problems into simple solutions
+☑ Learn new technologies
+
+☑ Convince Docker we're friends
+
+☐ Read the documentation before panicking
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 Character Stats
 
-### ⚡ Core
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js" />
-</p>
+```text
+Coffee Consumption      ████████████████
 
-### 🧱 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
-</p>
+Stack Overflow Usage    ███████████████
 
-### 🗄️ Database & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" />
-</p>
+Debugging               ████████████████
 
-### 🔧 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
-</p>
+Naming Variables        ██░░░░░░░░░░░░░
+
+Luck                    █░░░░░░░░░░░░░░
+
+CSS                     Here be dragons 🐉
+```
 
 ---
 
-## 🤖 Automation & Workflows
+# 🏆 Achievements
 
-- ⚙️ n8n automation builder
-- 🔗 API integrations
-- 📊 Process optimization
-- ⏱️ Time-saving systems
+🏅 It worked on the first try.
 
----
+*(1 in 8 billion chance.)*
 
-## 🌐 Connect with Me
+🏅 Survived npm dependency hell.
 
-<p>
-  🌍 Portfolio → <a href="https://bymauricio.com">bymauricio.com</a><br/>
-  💼 LinkedIn → <a href="https://www.linkedin.com/in/mauricio-gonzalez-frontend-developer/">Profile</a>
-</p>
+🏅 Accidentally fixed a bug without knowing why.
+
+🏅 Successfully closed VS Code without opening another project.
+
+🏅 Wrote code that still works six months later.
 
 ---
 
-## 📊 GitHub Stats
+# 💀 Bosses Defeated
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-hub&show_icons=true&theme=tokyonight" />
-</p>
+```
+☠ Null Pointer
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio-hub&theme=tokyonight" />
-</p>
+☠ Merge Conflict
 
----
+☠ Friday Deployment
 
-## 🧩 Current Focus
+☠ Missing Semicolon
 
-- 🧠 Improving backend architecture
-- ⚡ Building automation systems with n8n
-- 📈 Scaling real-world applications
-- 🎯 Preparing for international opportunities
+☠ "It works on my machine."
+```
 
 ---
 
-## ⚡ Philosophy
+# 🌎 Fast Travel
 
-> Build simple solutions to complex problems.
+🌐 **Portfolio**
+
+https://bymauricio.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mauricio-gonzalez-frontend-developer
+
+---
+
+<div align="center">
+
+### Achievement Unlocked
+
+**Visitor reached the end of the README.**
+
++100 XP
+
+⭐ Thanks for stopping by.
+
+</div>
+````
