@@ -45,13 +45,9 @@ export default {
 
 ---
 
-<div align="center">
-
-### `$ git log --oneline --no-mercy`
-
-</div>
-
 ```bash
+$ git log --oneline --no-mercy
+
 e5f3a91  feat: initial commit (hubris)
 b2c7d04  fix: okay so it doesn't work at all
 3a8f012  fix: please
@@ -114,15 +110,17 @@ a6b7c21  chore: removed comments, they were aspirational fiction
 
 <div align="center">
 
-### If you made it this far...
+```bash
+$ whoami
+> someone who just read a github readme to the bottom
+> voluntarily
+> this is either dedication or a very slow internet connection
+> either way — respect
 
-You read a GitHub README.  
-Voluntarily.  
-All the way to the bottom.  
-This is either dedication or a very slow internet connection.  
-Either way — respect.
-
-*Feel free to open an issue if life isn't compiling.*
+$ echo "thanks for visiting"
+> thanks for visiting
+> feel free to open an issue if life isn't compiling
+```
 
 </div>
 
