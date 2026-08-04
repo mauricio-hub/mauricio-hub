@@ -1,165 +1,159 @@
-````md id="8n0rmt"
 <div align="center">
 
-# 👋 Hey, I'm Mauricio
+# 👋 Hi, I'm Mauricio
 
-## Full Stack Developer (Mostly Harmless)
+### Full Stack Developer
 
-```
-Loading developer...
+> *Building things. Breaking things. Fixing things. Pretending it was part of the plan.*
 
-██████████████████████████ 100%
+<br>
 
-Developer loaded successfully.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Node.js+Enjoyer;Professional+Bug+Collector;Turning+Coffee+Into+Code;Works+On+My+Machine+Certified" />
 
-Warnings:
-- May overengineer simple projects.
-- Talks to Docker.
-- Uses console.log() as a debugger.
-```
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Professional+Bug+Collector;Coffee+→+Code+Converter;Works+on+My+Machine+Certified;Powered+by+TypeScript+and+Bad+Decisions" />
-
-</div>
-
----
-
-# 🎮 Character Profile
-
-```yaml
-Name: Mauricio
-
-Class: Full Stack Developer
-
-Level: Grinding...
-
-HP: ██████████
-
-Mana: Coffee ☕
-
-Special Ability:
-  "Fix one bug.
-   Accidentally create two."
-```
-
----
-
-# 🎒 Inventory
-
-```text
-✓ JavaScript
-✓ TypeScript
-✓ Node.js
-✓ NestJS
-✓ React
-✓ PostgreSQL
-✓ MongoDB
-✓ Docker
-✓ Linux
-✓ Git
-✓ n8n
-
-Legendary Item:
-
-Rubber Duck
-+20 Debugging
-```
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mongodb,docker,git,github,linux,python"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mongodb,docker,git,github,linux,python" />
 </p>
 
----
-
-# 📜 Side Quests
-
-☑ Build cool stuff
-
-☑ Break cool stuff
-
-☑ Fix cool stuff
-
-☑ Learn new technologies
-
-☑ Convince Docker we're friends
-
-☐ Read the documentation before panicking
+</div>
 
 ---
 
-# 📊 Character Stats
+```bash
+$ whoami
+
+Mauricio
+
+Full Stack Developer
+
+Coffee-powered life form.
+
+Currently trying to convince computers to behave.
+```
+
+---
+
+## sudo cat personality.txt
+
+```txt
+• I don't fear bugs.
+  I create them professionally.
+
+• "I'll just change one line..."
+  ← Famous last words.
+
+• My code has two modes:
+  Works perfectly.
+  Why is everything on fire?
+
+• I read documentation.
+
+...eventually.
+```
+
+---
+
+## npm run today
 
 ```text
-Coffee Consumption      ████████████████
+✔ Wake up
 
-Stack Overflow Usage    ███████████████
+✔ Coffee
 
-Debugging               ████████████████
+✔ VS Code
 
-Naming Variables        ██░░░░░░░░░░░░░
+✔ Fix a bug
 
-Luck                    █░░░░░░░░░░░░░░
+✔ Create two new bugs
 
-CSS                     Here be dragons 🐉
+✔ Blame Docker
+
+✔ Realize it wasn't Docker
+
+✔ Repeat
 ```
 
 ---
 
-# 🏆 Achievements
+## Character Stats
 
-🏅 It worked on the first try.
+```text
+Debugging          ████████████████ 99%
 
-*(1 in 8 billion chance.)*
+Coffee             ████████████████ 100%
 
-🏅 Survived npm dependency hell.
+Stack Overflow     ██████████████░ 92%
 
-🏅 Accidentally fixed a bug without knowing why.
+Naming Variables   ██░░░░░░░░░░░░░ 14%
 
-🏅 Successfully closed VS Code without opening another project.
-
-🏅 Wrote code that still works six months later.
-
----
-
-# 💀 Bosses Defeated
-
-```
-☠ Null Pointer
-
-☠ Merge Conflict
-
-☠ Friday Deployment
-
-☠ Missing Semicolon
-
-☠ "It works on my machine."
+CSS                ☠
 ```
 
 ---
 
-# 🌎 Fast Travel
+## Git Philosophy
 
-🌐 **Portfolio**
+```bash
+git add .
 
-https://bymauricio.com
+git commit -m "this should work"
 
-💼 **LinkedIn**
+git push
 
-https://linkedin.com/in/mauricio-gonzalez-frontend-developer
+pray
+```
+
+---
+
+## Current Side Quests
+
+- 🚀 Building cool projects
+- 🤖 Playing with AI & Automation
+- 📚 Learning something every day
+- 🐳 Trying to make Docker happy
+- ☕ Refilling coffee
 
 ---
 
 <div align="center">
 
-### Achievement Unlocked
+### 📈 GitHub Stats
 
-**Visitor reached the end of the README.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mauricio-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-+100 XP
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-hub&layout=compact&theme=tokyonight&hide_border=true"/>
 
-⭐ Thanks for stopping by.
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mauricio-hub&theme=tokyonight&hide_border=true"/>
 
 </div>
-````
+
+---
+
+<div align="center">
+
+### Final Boss
+
+```text
+Legacy Code
+██████████████████████████
+
+Weakness:
+Documentation
+```
+
+<br>
+
+🌐 **https://bymauriciog.com**
+
+💼 **linkedin.com/in/mauricio-gonzalez-frontend-developer**
+
+<br>
+
+*"If it works, don't touch it."*
+
+<sub>...unless it's Friday.</sub>
+
+</div>
