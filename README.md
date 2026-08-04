@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Mauricio González
@@ -9,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,react,nextjs,postgres,mongodb,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,react,nextjs,postgres,mongodb,docker,git,linux&theme=dark"/>
 
 </div>
 
@@ -68,4 +67,3 @@ export default {
 Feel free to explore my repositories and connect with me.
 
 </div>
-````
