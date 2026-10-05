@@ -16,18 +16,12 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const mauricio = {
-  role: "Full Stack Developer",
-  location: "Cúcuta, Colombia 🇨🇴",
-  focus: ["REST APIs", "Scalable web apps", "Clean architecture"],
-  currentlyLearning: ["Distributed systems", "Cloud", "System design"],
-  languages: ["Spanish (native)", "English (improving every day)"],
-  funFact: "I turn coffee into TypeScript ☕",
-};
-```
+I'm a Full Stack Developer who enjoys solving real-world problems through software. I work primarily with **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB**, building REST APIs and full-stack applications from end to end.
 
-I'm a Full Stack Developer who enjoys solving real-world problems through software. I work primarily with **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB**, building REST APIs and full-stack applications from end to end. Outside of coding, I'm into software architecture, distributed systems, and cloud technologies.
+- 📍 Based in **Cúcuta, Colombia**
+- 🔭 Currently exploring **distributed systems, cloud, and system design**
+- 🗣️ **Spanish** (native) · **English** (improving every day)
+- ☕ Fun fact: I turn coffee into TypeScript
 
 ---
 
@@ -52,23 +46,6 @@ I'm a Full Stack Developer who enjoys solving real-world problems through softwa
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mauricio-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&rank_icon=github&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&langs_count=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mauricio-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-hub&theme=tokyonight" height="150" />
-
-</div>
-
-### 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauricio-hub&bg_color=0d1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&hide_border=true" width="100%" />
 
 </div>
 
