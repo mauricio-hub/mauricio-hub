@@ -1,45 +1,103 @@
 <div align="center">
 
-# Mauricio González
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6E57F7,100:00D4FF&height=220&section=header&text=Mauricio%20González&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=6E57F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+scalable+web+applications;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1800&color=6E57F7&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+applications;TypeScript+%7C+NestJS+%7C+React+%7C+Next.js;Clean+code.+Solid+architecture.+Real+impact.;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,react,nextjs,postgres,mongodb,docker,git,linux&theme=dark"/>
-
-</div>
-
-## About Me
-
-I'm a Full Stack Developer who enjoys solving real-world problems through software.
-
-Over the past few years I've worked primarily with TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB, building REST APIs and full-stack applications.
-
-Outside of coding, I enjoy learning about software architecture, distributed systems, cloud technologies, and continuously improving my English.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=mauricio-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&rank_icon=github"/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mauricio-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7"/>
+![Profile Views](https://komarev.com/ghpvc/?username=mauricio-hub&label=Profile%20views&color=6E57F7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mauricio-hub?label=Followers&style=for-the-badge&color=6E57F7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/mauricio-hub?label=Stars&style=for-the-badge&color=6E57F7&labelColor=0d1117)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+```ts
+const mauricio = {
+  role: "Full Stack Developer",
+  location: "Cúcuta, Colombia 🇨🇴",
+  focus: ["REST APIs", "Scalable web apps", "Clean architecture"],
+  currentlyLearning: ["Distributed systems", "Cloud", "System design"],
+  languages: ["Spanish (native)", "English (improving every day)"],
+  funFact: "I turn coffee into TypeScript ☕",
+};
+```
+
+I'm a Full Stack Developer who enjoys solving real-world problems through software. I work primarily with **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB**, building REST APIs and full-stack applications from end to end. Outside of coding, I'm into software architecture, distributed systems, and cloud technologies.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-### Thanks for visiting my profile!
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" /> |
 
-Feel free to explore my repositories and connect with me.
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mauricio-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&rank_icon=github&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=mauricio-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-hub&theme=tokyonight" height="150" />
+
+</div>
+
+### 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauricio-hub&bg_color=0d1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🏗️ Go deeper into **software architecture** and **system design**
+- ☁️ Master **cloud** services (AWS / GCP) and Docker-based deployments
+- 🌍 Keep improving my **technical and conversational English**
+- 🤝 Contribute to **open source** projects
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mauricio-gonzalez-fullstack-developer-ai-engineer/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://bymauriciog.com/">
+  <img src="https://img.shields.io/badge/Portfolio-6E57F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br><br>
+
+*Got an idea or a project in mind? Let's talk.* 💬
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6E57F7,100:00D4FF&height=120&section=footer" width="100%" />
 
 </div>
