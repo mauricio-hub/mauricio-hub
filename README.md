@@ -18,7 +18,7 @@
 
 I'm a Full Stack Developer who enjoys solving real-world problems through software. I work primarily with **TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, and MongoDB**, building REST APIs and full-stack applications from end to end.
 
-- 📍 Based in Colombia**
+- 📍 Based in Colombia
 - 🔭 Currently exploring **distributed systems, cloud, and system design**
 - 🗣️ **Spanish** (native) · **English** (improving every day)
 - ☕ Fun fact: I turn coffee into TypeScript
