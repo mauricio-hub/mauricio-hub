@@ -21,7 +21,6 @@ I'm a Full Stack Developer who enjoys solving real-world problems through softwa
 - 📍 Based in Colombia
 - 🔭 Currently exploring **distributed systems, cloud, and system design**
 - 🗣️ **Spanish** (native) · **English** 
-- ☕ Fun fact: I turn coffee into TypeScript
 
 ---
 
