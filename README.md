@@ -55,7 +55,6 @@ I'm a Full Stack Developer who enjoys solving real-world problems through softwa
 - 🏗️ Go deeper into **software architecture** and **system design**
 - ☁️ Master **cloud** services (AWS / GCP) and Docker-based deployments
 - 🌍 Keep improving my **technical and conversational English**
-- 🤝 Contribute to **open source** projects
 
 ---
 
